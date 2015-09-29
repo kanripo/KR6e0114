@@ -1,0 +1,17 @@
+#-*- mode: org; -*-
+#+DATE: 2015-09-28 22:58:20.314045
+#+TITLE: 華嚴一乘成佛妙義
+#+PROPERTY: CBETA_ID T45n1890
+#+PROPERTY: ID KR6e0114
+#+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1890
+#+PROPERTY: VOL 45
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS CBETA
+
+<pb:KR6e0114_T_000-0775c>¶
+
+[[file:KR6e0114_001.txt::001-0775c17][1出成佛種]]
+[[file:KR6e0114_001.txt::0779b15][2辨定得人門]]
+[[file:KR6e0114_001.txt::0782c3][3顯教差別門]]
+[[file:KR6e0114_001.txt::0790b28][4疾得成佛種類門]]
+[[file:KR6e0114_001.txt::0791a17][5問答分別門]]
